@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudentManagement</string>
+    <string name="delete_account">DELETE ACCOUNT</string>
+</resources>

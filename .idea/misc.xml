@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.184" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/drawable/ic_baseline_loop_24.xml" value="0.184" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/drawable/ic_launcher_background.xml" value="0.184" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/accdel.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/activity_main.xml" value="0.1526268115942029" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/activity_main2.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/activity_main3.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/activity_main4.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/activity_main5.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/change.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/changex.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/deleted.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/delstd.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/dialog.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/forgot.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/item.xml" value="0.1526268115942029" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/newdialog.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/ram.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/rama.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/schs.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/src.xml" value="0.1" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/stditem.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Tanuj/AndroidStudioProjects/StudentManagement/app/src/main/res/layout/stud.xml" value="0.16304347826086957" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
